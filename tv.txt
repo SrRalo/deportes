@@ -1,0 +1,74 @@
+#EXTINF:-1  group-title="Bics Extra", TUDN MX
+http://190.61.102.67:31589/play/a08j/index.m3u8
+#EXTINF:-1  group-title="Bics Extra", TUDN MX
+http://181.209.173.10:9000/play/a05s/index.m3u8
+
+#EXTINF:-1  group-title="Bics Extra", FOX SPORTS MX
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+#EXTINF:-1  group-title="Bics Extra", FOX SPORTS 2 MX
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
+#EXTINF:-1  group-title="Bics Extra", FOX SPORTS 2 MX
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87456
+#EXTINF:-1  group-title="Bics Extra", FOX SPORTS 3 MX
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87457
+#EXTINF:-1  group-title="Bics Extra", ESPN LatinoAmerica HD 
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87446
+#EXTINF:-1  group-title="Bics Extra", ESPN 2 LatinoAmerica HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87447
+#EXTINF:-1  group-title="Bics Extra", ESPN 3 
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87448
+
+#EXTINF:-1  group-title="Bics Extra", Fox Sports Premium
+http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1  group-title="Bics Extra", Fox Sports Premium
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/56034
+#EXTINF:-1  group-title="Bics Extra",  Fox Sports 2 USA
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=1107030931&_cdn_timestamp=1693297588&_cdn_token=00e99bc9f1b72f5de9bd0d00ddbfa81f7a22f69c
+#EXTINF:-1  group-title="Bics Extra", Fox Sports 3 USA
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=1107029779&_cdn_timestamp=1693297530&_cdn_token=a2dc0b929de5d288e3a5d095575ae70aac69bde4
+#EXTINF:-1  group-title="Bics Extra", ESPN USA
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=1107030315&_cdn_timestamp=1693297560&_cdn_token=633a549542cd08711de815518e4256194baf7b4e
+#EXTINF:-1  group-title="Bics Extra", ESPN 2 USA
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=1107031707&_cdn_timestamp=1693297628&_cdn_token=6aea2eda8a36b062eb5a4408246e05ff20e2f479
+#EXTINF:-1  group-title="Bics Extra", ESPN 3 USA
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=1107031819&_cdn_timestamp=1693297634&_cdn_token=2ad93260b48db895adf339405d246decdc999f1b
+#EXTINF:-1  group-title="Bics Extra", ESPN 4 USA
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=1107032011&_cdn_timestamp=1693297648&_cdn_token=37c09440aa652d412cd69feffab8832382ef5f82
+#EXTINF:-1  group-title="Bics Extra", ESPN EXTRA USA
+http://177.53.153.21:8001/play/a03a/index.m3u8
+#EXTINF:-1  group-title="Bics Extra", Claro Sports
+http://201.218.137.232:4123/play/a00t/index.m3u8
+#EXTINF:-1  group-title="Bics Extra", Claro Sports 2
+http://201.218.137.232:4123/play/a00u/index.m3u8
+#EXTINF:-1  group-title="Bics Extra", Tigo Sports Guatemala
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+
+*** cocina pepe ****
+
+#EXTINF:-1  group-title="Bics Extra", Claro Sports HD 
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+***** #EXTINF:-1  group-title="Bics Extra", Fox Sports Latinoamerica 
+***** http://magmas5.com:8000/goodserver/2C4X1EC7EW/145435
+***** #EXTINF:-1  group-title="Bics Extra", FOX Sports Premium LatinoAmerica 
+***** http://magmas5.com:8000/goodserver/2C4X1EC7EW/145439
+
+***** #EXTINF:-1  group-title="Bics Extra", FOX Sports 2 LatinoAmerica HD 
+***** http://magmas5.com:8000/goodserver/2C4X1EC7EW/132269
+***** #EXTINF:-1  group-title="Bics Extra", Fox Sports 3 LatinoAmerica HD 
+***** http://magmas5.com:8000/goodserver/2C4X1EC7EW/145434
+#EXTINF:-1  group-title="Bics Extra", ESPN LatinoAmerica HD 
+http://181.209.173.10:9000/play/a069/index.m3u8
+#EXTINF:-1  group-title="Bics Extra", ESPN 2 LatinoAmerica HD 
+http://181.209.173.10:9000/play/a06a/index.m3u8
+
+***** #EXTINF:-1  group-title="Bics Extra", ESPN 3 
+***** http://magmas5.com:8000/goodserver/2C4X1EC7EW/132280
+
+#EXTINF:-1  group-title="Bics Extra", ITV Deportes 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899342&id=34434&ip=45.188.78.93&override_expiration=1500&sign=TxhnXtTkkmuchk54BrTTN4p4AevpD8%2Bnm3lscX9lXPg%3D
+#EXTINF:-1  group-title="Bics Extra", 55
+https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
+#EXTINF:-1  group-title="Bics Extra", Tigo Sports
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:-1  group-title="Bics Extra", Golazo Network 
+https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
